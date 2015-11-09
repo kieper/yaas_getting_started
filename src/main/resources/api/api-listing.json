@@ -1,0 +1,14 @@
+{
+    "name": "hybris Service",
+    "references":[
+        {
+            "namespace": "api",
+            "description": "API definition of whishlist",
+            "path": "/",
+            "type": "raml",
+            "fileName": "whishlist.raml",
+            "packageName": "com.sample.whishlist.api.generated",
+            "async": false
+        }
+    ]
+}
